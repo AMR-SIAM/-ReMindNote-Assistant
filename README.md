@@ -18,15 +18,20 @@
 
 ### 🎥 Demo Video
 
-https://github.com/user-attachments/assets/78165689-4a05-4d7c-a6ee-f725d8217b62
+
+
+
+https://github.com/user-attachments/assets/7699cd2a-aec1-4c64-a3a8-809cc71f2fa9
+
+
 
 
 
 ### 📸 Screenshots  
 
 📂 **Main Screen**  
+![sideBarOpen](https://github.com/user-attachments/assets/707a84b5-3db6-46bc-9a92-6e994a95b586)
 
-![Sidebar Open](https://github.com/user-attachments/assets/ebe7e9f5-b943-4b1c-a9ad-4440f0fb848a)  
 ------------------------------------------------------------------------------------------------------
 
 ---
